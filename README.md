@@ -319,7 +319,7 @@ Ejemplo:
 
 # Autor
 
-Desarrollado como proyecto de sistema Punto de Venta (POS) utilizando Next.js, React y TypeScript.
+Desarrollado por Nertamid Roque
 
 ---
 
