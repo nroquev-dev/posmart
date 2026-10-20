@@ -1,13 +1,13 @@
 /**
  * Página de Checkout / Simulación de Pago
- * Ruta: /checkout-simulaci-n-de-pago
+ * Ruta: /checkout-simulacion-de-pago
  * Wizard de 3 pasos: Resumen → Datos → Pago → Confirmación
  */
 import React from 'react';
 import type { Metadata } from 'next';
 import BarraNavegacion from '@/components/BarraNavegacion';
 import CarritoLateral from '@/components/carrito/CarritoLateral';
-import CheckoutContenido from '@/app/checkout-simulaci-n-de-pago/components/CheckoutContenido';
+import CheckoutContenido from '@/app/checkout-simulacion-de-pago/components/CheckoutContenido';
 
 export const metadata: Metadata = {
   title: 'Checkout — PosMart',

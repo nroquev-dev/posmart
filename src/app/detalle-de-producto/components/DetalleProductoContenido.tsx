@@ -356,7 +356,7 @@ export default function DetalleProductoContenido() {
             </button>
 
             <Link
-              href="/checkout-simulaci-n-de-pago"
+              href="/checkout-simulacion-de-pago"
               className="flex items-center justify-center gap-2.5 w-full py-3.5 rounded-xl text-base font-semibold border-2 border-foreground text-foreground hover:bg-foreground hover:text-background transition-all duration-150 active:scale-[0.98]"
             >
               Ir al checkout

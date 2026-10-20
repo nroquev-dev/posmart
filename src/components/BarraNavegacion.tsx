@@ -18,7 +18,7 @@ export default function BarraNavegacion() {
 
   const navLinks = [
     { href: '/', label: 'Catálogo', icono: Store },
-    { href: '/checkout-simulaci-n-de-pago', label: 'Checkout', icono: Package },
+    { href: '/checkout-simulacion-de-pago', label: 'Checkout', icono: Package },
   ];
 
   return (

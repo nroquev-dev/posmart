@@ -189,7 +189,7 @@ export default function CarritoLateral() {
             {/* Botones acción */}
             <div className="flex flex-col gap-2">
               <Link
-                href="/checkout-simulaci-n-de-pago"
+                href="/checkout-simulacion-de-pago"
                 onClick={cerrarCarrito}
                 className="flex items-center justify-center gap-2 w-full py-3 bg-primary text-primary-foreground rounded-xl text-sm font-bold hover:bg-orange-600 active:scale-[0.98] transition-all duration-150"
               >
